@@ -6,11 +6,11 @@
  4. [Results](#Results)
  5. [Licensing, Authors and Acknowledgements](#Acknowledgements)
 - - -
-### Installation
+### Installation <a name='Installation'></a>
 
 This project makes use of pandas, numpy, matplotlib, seaborn and datetime packages. All of these are available in Anaconda distribution of Python. This code should execute successfully using Python version 3.*
 
-### Project Overview
+### Project Overview <a name='Project-Overview'></a>
 
 My purpose of this project was to do exploratory analysis of Kickstarter dataset to answer some questions about this crowdfunding platform
  1. How popular is Kickstarter? How many projects funding campaigns are lauched on average in a month?
@@ -19,14 +19,14 @@ My purpose of this project was to do exploratory analysis of Kickstarter dataset
  4. What makes a campaign successful? Is it the category, goal amount, duration, month or week of launch date etc.?
  5. What are some of the most successful campaigns?
  
-### File Descriptions
+### File Descriptions <a name='File-Descriptions'></a>
 
 There is only one file in this project that has the python code to help answer above mentioned questions. 
 
-### Results
+### Results <a name='Results'></a>
 
 Results of the analysis can be found [here](https://www.google.com)
 
-### Licensing, Authors and Acknowledgements
+### Licensing, Authors and Acknowledgements <a name='Acknowledgements'></a>
 
 I would like to thank kickstarter, kaggle  and other data scientists who made this data available for everyone to use. Please feel free to use/modify my code as needed 
