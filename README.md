@@ -21,7 +21,8 @@ My purpose of this project was to do exploratory analysis of Kickstarter dataset
  
 ### File Descriptions <a name='File-Descriptions'></a>
 
-There is only one file in this project that has the python code to help answer above mentioned questions. 
+kickstarter.ipynb : This is jupyter notebook file which contains all the necessary code for analysis
+ks-projects-201801.csv : This is the kickstarter data file in csv format. It has been downloaded from [here](https://www.kaggle.com/kemical/kickstarter-projects?select=ks-projects-201801.csv)
 
 ### Results <a name='Results'></a>
 
