@@ -23,6 +23,10 @@ My purpose of this project was to do exploratory analysis of Kickstarter dataset
 
 There is only one file in this project that has the python code to help answer above mentioned questions. 
 
+### Results
+
+Results of the analysis can be found [here](https://www.google.com)
+
 ### Licensing, Authors and Acknowledgements
 
 I would like to thank kickstarter, kaggle  and other data scientists who made this data available for everyone to use. Please feel free to use/modify my code as needed 
