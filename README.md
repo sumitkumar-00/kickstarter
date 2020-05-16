@@ -1,10 +1,10 @@
 ### Table of Contents
 
  1. [Installation](#Installation)
- 2. Project Overview
- 3. File Descriptions
- 4. Results
- 5. Licensing, Authors and Acknowledgements
+ 2. [Project Overview[(#Project Overview)
+ 3. [File Descriptions](#File Descriptions)
+ 4. [Results](#Results)
+ 5. [Licensing, Authors and Acknowledgements](#Licensing, Authors and Acknowldgements)
 - - -
 ### Installation
 
