@@ -4,7 +4,7 @@
  2. [Project Overview](#Project-Overview)
  3. [File Descriptions](#File-Descriptions)
  4. [Results](#Results)
- 5. [Licensing, Authors and Acknowledgements](#Licensing,-Authors-and-Acknowldgements)
+ 5. [Licensing, Authors and Acknowledgements](#Licensing)
 - - -
 ### Installation
 
