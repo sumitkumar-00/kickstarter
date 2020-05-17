@@ -26,7 +26,7 @@ ks-projects-201801.csv : This is the kickstarter data file in csv format. It has
 
 ### Results <a name='Results'></a>
 
-Results of the analysis can be found [here](https://www.google.com)
+Important results of the analysis can be found [here](https://medium.com/@sumitkr_51302/launch-a-successful-crowdfunding-campaign-fb3935798479)
 
 ### Licensing, Authors and Acknowledgements <a name='Acknowledgements'></a>
 
